@@ -1,5 +1,5 @@
 # CSCI630-Profile
-Profile Journal for CSCI630
+Profile Portfolio Journal for CSCI630
 
 ### Highlights
 
