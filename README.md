@@ -7,7 +7,7 @@ just getting started!
 
 ### Timeline
 
-##Sprint 1
+## Sprint 1
 
 - assigned myself to [issue #19](https://github.com/ChicoState/PantryNode/issues/19) and configured a linter workflow for ESLint with help from Jay R.
 - created a [PR](https://github.com/ChicoState/PantryNode/pull/40) for new linter workflow
