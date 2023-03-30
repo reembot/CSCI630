@@ -16,3 +16,8 @@ just getting started!
 - worked through resolving linter yaml & root file configuration to work properly - assisted by Abhinav Reddy
 - configured linter to suppress errors into warnings for initial merge - assisted by James Krepelka
 - merged [linter PR](https://github.com/ChicoState/PantryNode/pull/40) into main branch
+
+#### Sprint 2
+
+- assisted team member in configuring and running linter locally
+- contributed to Discussion board for [integrating infrastructure](https://github.com/ChicoState/PantryNode/discussions/71)
