@@ -21,3 +21,4 @@ just getting started!
 
 - assisted team member in configuring and running linter locally
 - contributed to Discussion board for [integrating infrastructure](https://github.com/ChicoState/PantryNode/discussions/71)
+- reviewed and approved PR [80](https://github.com/ChicoState/PantryNode/pull/80)
