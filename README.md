@@ -22,3 +22,9 @@ just getting started!
 - assisted team member in configuring and running linter locally
 - contributed to Discussion board for [integrating infrastructure](https://github.com/ChicoState/PantryNode/discussions/71)
 - reviewed and approved PR [80](https://github.com/ChicoState/PantryNode/pull/80)
+
+#### Sprint 3
+
+ - investigated and discussed with team operations for expiration date on transaction items
+ - coordinated with Zach from backend team for approval of edits
+ - created [PR](https://github.com/ChicoState/PantryNode/pull/117) for trans_item interface edits
