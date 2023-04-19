@@ -28,4 +28,5 @@ just getting started!
  - investigated and discussed with team operations for expiration date on transaction items
  - coordinated with Zach from backend team for approval of edits
  - created [PR](https://github.com/ChicoState/PantryNode/pull/117) for trans_item interface edits
- - reviewd and approved [PR](https://github.com/ChicoState/PantryNode/pull/134) for configuring linter within frontend branch
+ - reviewed and approved [PR](https://github.com/ChicoState/PantryNode/pull/134) for configuring linter within frontend branch
+ - created checklist for project requirements for discussion and tracking in this [thread-65](https://github.com/ChicoState/PantryNode/discussions/65?sort=new)
