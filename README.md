@@ -30,3 +30,4 @@ just getting started!
  - created [PR](https://github.com/ChicoState/PantryNode/pull/117) for trans_item interface edits
  - reviewed and approved [PR](https://github.com/ChicoState/PantryNode/pull/134) for configuring linter within frontend branch
  - created checklist for project requirements for discussion and tracking in this [thread-65](https://github.com/ChicoState/PantryNode/discussions/65?sort=new)
+ - reviewed and approved [PR](https://github.com/ChicoState/PantryNode/pull/132) for Quagga SKU integration
