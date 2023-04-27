@@ -31,3 +31,7 @@ just getting started!
  - reviewed and approved [PR](https://github.com/ChicoState/PantryNode/pull/134) for configuring linter within frontend branch
  - created checklist for project requirements for discussion and tracking in this [thread-65](https://github.com/ChicoState/PantryNode/discussions/65?sort=new)
  - reviewed and approved [PR](https://github.com/ChicoState/PantryNode/pull/132) for Quagga SKU integration
+ 
+ #### Sprint 4
+ 
+ - contributed to and reviewed [PR 173](https://github.com/ChicoState/PantryNode/pull/173) for issue [81](https://github.com/ChicoState/PantryNode/issues/81), creating backend route query for nearly expired items
