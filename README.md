@@ -35,3 +35,4 @@ just getting started!
  #### Sprint 4
  
  - contributed to and reviewed [PR 173](https://github.com/ChicoState/PantryNode/pull/173) for issue [81](https://github.com/ChicoState/PantryNode/issues/81), creating backend route query for nearly expired items
+ - Reviewed [PR](https://github.com/ChicoState/PantryNode/pull/221)
