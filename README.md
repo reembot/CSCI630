@@ -3,7 +3,9 @@ Project Journal for CSCI630
 
 ### HIGHLIGHTS
 
-just getting started!
+- created workflow for linter [PR40](https://github.com/ChicoState/PantryNode/pull/40)
+- created original project requirement checklist for global tracking [Discussion65](https://github.com/ChicoState/PantryNode/discussions/65?sort=new)
+- created new route for nearly-expired items [PR173](https://github.com/ChicoState/PantryNode/pull/173)
 
 ### TIMELINE
 
